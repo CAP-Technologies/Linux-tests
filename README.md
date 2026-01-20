@@ -12,11 +12,10 @@ Linux is a practical alternative for many desktop and laptop users today. With m
 
 ## What we test
 Our focus is practical and user‑facing: clear, reproducible checks and guides that help a person decide whether a distro fits their needs. Typical coverage includes:
-- Installation experience (Live USB, installer, partitioning, UEFI/Secure Boot)
+- Installation experience (Live USB, UEFI/Secure Boot)
 - Initial setup and configuration (user accounts, software sources, common packages)
 - Desktop environment usability and workflow notes
 - Practical migration guidance and step‑by‑step instructions for common tasks
-- Reproducible documentation and templates so others can repeat tests and contribute results
 
 Each test includes exact steps, system information, and observations so results can be compared and reproduced.
 
@@ -27,9 +26,9 @@ One of our baseline tests used a Dell Inspiron 3593 previously running Windows 1
 We also include notes where a distro or workflow is especially relevant to small, affordable platforms (for example, recent Raspberry Pi models). These devices are useful for lightweight desktops, media tasks, and learning Linux; we’ll call out when a guide or test is applicable to them.
 
 ## Tone and approach
-We test with real users in mind: reproducible steps, straightforward notes, and pragmatic recommendations. Our goal is to show what works, what needs tweaks, and how to fix common problems — not to promise perfection for every setup.
+We test with real users in mind: straightforward notes, and pragmatic recommendations. Our goal is to show what works — not to promise perfection for every setup.
 
 ## Want to get involved?
-Follow the series for in‑depth writeups and podcast episodes. If you’d like to contribute test results, scripts, or guides, check the repository for templates and a CONTRIBUTING.md. Try a Live USB or VM to reproduce tests, collect logs with our helper scripts, and open a pull request with your findings.
+Follow the series for in‑depth writeups and podcast episodes. If you’d like to contribute test results, scripts, or guides, check the repository for templates and a CONTRIBUTING.md. Try a Live USB or VM to reproduce tests, and open a pull request with your findings.
 
 We hope these tests make evaluating Linux clearer and less intimidating. Give it a try and share your results!
