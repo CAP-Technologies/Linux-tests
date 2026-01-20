@@ -87,5 +87,3 @@ This Code of Conduct is adapted from the Contributor Covenant, version 2.1, avai
 This document is licensed under the same license as the repository. Maintainers may update this Code of Conduct; substantive changes will be communicated to contributors and documented in the repository.
 
 ---
-
-If you maintain this repository, please replace the placeholder contact email (conduct@cap-technologies.example) with a working address or preferred private reporting channel before publishing.
