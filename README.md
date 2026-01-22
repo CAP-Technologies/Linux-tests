@@ -7,7 +7,6 @@ Linux is a practical alternative for many desktop and laptop users today. With m
 
 ## Who this is for
 - Windows and macOS users considering a switch to Linux  
-- Testers and contributors who want reproducible, shareable results  
 - Anyone who wants clear, practical notes on installation, setup, and daily workflows
 
 ## What we test
@@ -21,6 +20,9 @@ Each test includes exact steps, system information, and observations so results 
 
 ## Example test machine
 One of our baseline tests used a Dell Inspiron 3593 previously running Windows 10. It had 8 GB of RAM, an Intel Core i7 CPU, and Intel Iris Plus graphics. This represents modest, older hardware many switchers still own — a realistic baseline for compatibility and usability testing.
+
+## Where to find individual test notes already done:
+Go to the wiki tab. Everything we've already tested will be there!
 
 ## Single‑board computers and small form factors
 We also include notes where a distro or workflow is especially relevant to small, affordable platforms (for example, recent Raspberry Pi models). These devices are useful for lightweight desktops, media tasks, and learning Linux; we’ll call out when a guide or test is applicable to them.
